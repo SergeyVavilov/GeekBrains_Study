@@ -47,5 +47,5 @@ https://docs.github.com/ru/get-started/quickstart/hello-world
 https://proglib.io/p/git-for-half-an-hour
 https://selectel.ru/blog/tutorials/git-setup-and-common-commands/
 
-Эта инстукция разработана автоматически 
+азработана автоматически 
 Вавилов Сергей не разрабатывал ее
