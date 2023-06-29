@@ -48,4 +48,5 @@ https://proglib.io/p/git-for-half-an-hour
 https://selectel.ru/blog/tutorials/git-setup-and-common-commands/
 
 
-Инструкцию разработал Вавилов С.А. 
+Инструкцию разработал 
+Вавилов С.А. 
