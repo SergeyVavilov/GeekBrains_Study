@@ -71,7 +71,7 @@ git push
 Добавляем комментарий к своему Fork и нажаимаем кнопку "Create pull request"
 Дополнительные источники с инструкциями:
 https://docs.github.com/ru/get-started/quickstart/hello-world
-https://proglib.io/p/git-for-half-an-hour
+qhttps://proglib.io/p/git-for-half-an-hour
 https://selectel.ru/blog/tutorials/git-setup-and-common-commands/
 
 
